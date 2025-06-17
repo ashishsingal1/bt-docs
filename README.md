@@ -31,3 +31,30 @@ Anyone who doesn’t want to build a front end for every bot
 
 ![Architecture](assets/architecture.png)
 
+Your bot connects to a foundational model, and probably contains some unique agentic functionality. It then connects to Bubbletea's API, which in turn, connects to a frontend.
+
+## Getting started
+
+We'll explore getting started by building the simplest bot - an echobot that simply echos the user's input - in three steps.
+
+### Step 1: Create and deploy your endpoint
+
+Create a Python file with the following code - 
+
+```
+code
+```
+
+We'll use Replit here, but 
+
+### Step 2: Register your bot on Bubbletea
+
+content
+
+### Step 3: Test your bot
+
+content
+
+## Learn more
+
+Now that you've built your first Bubbletea bot, let's explore what else you can do.
