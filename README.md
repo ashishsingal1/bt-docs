@@ -45,11 +45,11 @@ Create a Python file with the following code -
 code
 ```
 
-We'll use Replit here, but 
+Expose the endpoint (make sure it can take public requests).
 
 ### Step 2: Register your bot on Bubbletea
 
-content
+Navigate to Bubbletea (bubbletea.chat/bt-agent), register, and create a new bot. 
 
 ### Step 3: Test your bot
 
