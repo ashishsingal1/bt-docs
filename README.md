@@ -9,9 +9,13 @@ Think of it like Webflow for chatbots — no frontend code, no deployment, no ha
 
 ## Why use Bubbletea?
 🛠 No front-end needed – Build your bot in Python (or any language), plug it in, and you’re live.
+
 ⚡️ Instantly shareable – Each bot gets its own unique URL.
+
 💬 Flexible output – Supports plain text, markdown, images, and more.
+
 🧑‍💻 Developer-friendly – Simple API spec, works with any backend, integrates with your tools.
+
 🧼 Clean UX – Polished UI optimized for both desktop and mobile.
 
 ## Who is it for?
@@ -22,4 +26,8 @@ Startups demoing internal tools
 Agencies building custom bots for clients
 
 Anyone who doesn’t want to build a front end for every bot
+
+## Architecture
+
+![Architecture](assets/architecture.png)
 
